@@ -20,3 +20,7 @@ Click on the Link provided to look at the demo for the app.
 If the above link doesn't work clone the repo and guide to the current working directory and enter
 "python application.py". It would take some time and display local host where you can upload the image and see the results.
 Make sure you have required dependencies installed.
+
+## Dataset Link:
+https://www.kaggle.com/soumyapandey21/pokemondataset
+Click on above Kaggle link to download the dataset locally
